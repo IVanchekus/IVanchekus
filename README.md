@@ -1,16 +1,17 @@
-# Привет, я Иван 👋  
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Привет,+я+Иван+👾&fontSize=40&fontAlign=50&fontAlignY=50&animation=fadeIn&fontColor=fff)
 
-## 🚀 Обо мне  
+## 🚀 Обо мне
+
 - 💻 Web-разработчик с опытом **2+ лет**  
-- 🔧 Работаю в компании **ООО "Связьком"**  
+- 🔧 Работаю в компании **ООО "Связьком"**
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F75C7E&size=30&vCenter=true&height=40&lines=Web-разработчик;Музыкант;Спортсмен)](https://git.io/typing-svg)
 
 ### 🛠️ Стек технологий  
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel,vue,ts,sass,postgres,docker,grafana,python" />
 </p>
-
-
 
 ## 🏆 Достижения  
 - 🥇 **Кандидат в мастера спорта** по подводному плаванию  
@@ -21,8 +22,6 @@
 ---
 
 ## 📊 GitHub Статистика  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IVanchekus&show_icons=true&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IVanchekus&layout=compact&theme=radical)  
 
