@@ -21,12 +21,6 @@
 
 ---
 
-## 📊 GitHub Статистика  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IVanchekus&layout=compact&theme=radical)  
-
----
-
 ## 🌍 Где меня найти  
 - 📢 Telegram: [@oneewk](https://t.me/oneewk)  
 - 💼 GitHub: ты уже здесь 😉  
